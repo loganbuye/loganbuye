@@ -1,3 +1,5 @@
+![Calgary Alberta](./Calgary-Alberta.jpg)
+
 ## Hello, I'm Logan Buye
 
 ## About Me
