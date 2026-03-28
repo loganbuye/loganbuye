@@ -1,6 +1,6 @@
 # Hi, I'm Logan
 
-![Calgary](<img src="https://images.unsplash.com/photo-1512453979798-5ea266f8880c" width="100%" />)
+![Calgary](https://images.unsplash.com/photo-1512453979798-5ea266f8880c)
 
 ## 🚀 About Me
 - Computer Science student
