@@ -1,6 +1,6 @@
 # Hi, I'm Logan
 
-![Calgary](https://images.unsplash.com/photo-1512453979798-5ea266f8880c)
+![Calgary](https://globalnews.ca/news/1643155/calgarys-changing-skyline-could-dwarf-calgary-tower-in-2024/)
 
 ## 🚀 About Me
 - Computer Science student
